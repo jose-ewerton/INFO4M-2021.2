@@ -2,4 +2,4 @@
 
 Repositório da disciplina
 
-Neste repositório será desenvolvido durante as aulas de Programação Web um projeto em Python usando o Framework de Desenvolvimento Web Djando.
+Neste repositório será desenvolvido durante as aulas de Programação para Internet um projeto em Python usando o Framework de Desenvolvimento Web Django.
